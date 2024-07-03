@@ -1,6 +1,6 @@
 ## Hello there, I'm João Vitor
 
-- 🔭 Hoje trabalho com Infraestrutura e HelpDesk
+- 🔭 Hoje trabalho com Infraestrutura e Helpdesk
 - 🌱 Tecnologo em Redes de Computadores (Cursando)
 - 📫 Contate-me no e-mail: joaovitortorresan@live.com
 
